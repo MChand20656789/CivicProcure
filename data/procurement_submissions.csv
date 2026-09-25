@@ -1,0 +1,62 @@
+submission_id,agency,vendor_id,procurement_type,submission_date,requested_amount,approved_amount,contract_start_date,contract_end_date,mwbe_status,status,review_stage,compliance_status,review_days,issue_type
+S0001,Department of Education,V009,Goods,2026-06-13,68369,51704.24,2026-07-15,2027-09-18,No,Pending,Intake,Compliant,23,
+S0002,Department of Parks,V007,Professional Services,2026-01-24,124629,100720.82,2026-03-18,2026-10-11,No,Pending,Final Approval,Compliant,60,Vendor Information
+S0003,Department of Health,V004,Human Services,2026-07-27,465763,350078.97,2026-08-21,2028-04-24,Yes,Under Review,Intake,Compliant,32,Financial Review
+S0004,Department of Housing,V009,Goods,2026-01-25,198208,190651.04,2026-03-19,2027-06-12,No,Approved,Intake,Compliant,28,Date Error
+S0005,Department of Health,,Goods,2026-03-17,444846,403546.48,2026-04-24,2027-05-05,Yes,Approved,Intake,Compliant,6,Financial Review
+S0006,Department of Health,V005,Goods,2026-03-13,247717,225155.21,2026-04-20,2027-04-01,Yes,Under Review,Final Approval,Compliant,37,Duplicate Submission
+S0007,Department of Education,V004,Goods,2026-03-04,95669,82807.74,2026-04-05,2027-05-14,No,Under Review,Legal Review,Compliant,68,Vendor Information
+S0008,Department of Housing,V007,Construction,2026-01-17,120615,117995.73,2026-03-09,2027-07-24,Yes,Pending,Compliance Review,Compliant,56,Missing Documentation
+S0009,Department of Health,V003,Technology,2026-03-05,400588,356660.33,2026-04-05,2027-12-14,No,Rejected,Intake,Compliant,16,
+S0010,Department of Housing,V010,Construction,2026-08-09,67487,53193.95,2026-09-03,2028-05-07,No,Approved,Final Approval,Compliant,17,
+S0011,Department of Transportation,V007,Professional Services,2026-06-24,387865,302006.4,2026-08-12,2027-11-08,No,Under Review,Intake,Compliant,22,Duplicate Submission
+S0012,Department of Transportation,V009,Technology,2026-08-13,387319,315993.15,2026-09-29,2027-09-26,,Approved,Financial Review,Compliant,25,Vendor Information
+S0013,Department of Education,V002,Human Services,2026-07-15,94698,83793.03,2026-09-01,2027-02-28,No,Under Review,Financial Review,Compliant,46,
+S0014,Department of Parks,V003,Professional Services,2026-03-03,470329,419457.86,2026-03-23,2026-12-15,No,Rejected,Final Approval,Compliant,7,Missing Documentation
+S0015,Department of Transportation,V007,Human Services,2026-03-09,286653,277511.14,2026-04-20,2027-05-21,No,Pending,Final Approval,Compliant,60,Financial Review
+S0016,Department of Health,V001,Goods,2026-01-31,139973,112842.64,2026-03-08,2026-09-25,Yes,Pending,Financial Review,Compliant,52,
+S0017,Department of Housing,V004,Technology,2026-08-20,26469,25540.17,2026-09-08,2028-08-14,Yes,Pending,Final Approval,Compliant,32,Date Error
+S0018,Department of Housing,V006,Construction,2026-05-02,137400,130001.68,2026-06-12,2027-06-21,No,Approved,Legal Review,Compliant,8,Duplicate Submission
+S0019,Department of Transportation,V002,Professional Services,2026-01-14,363036,331583.97,2026-03-11,2026-03-11,Yes,Approved,Financial Review,Compliant,17,Date Error
+S0020,Department of Education,V008,Technology,2026-04-25,83495,71427.5,2026-05-27,2028-03-10,Yes,Pending,Intake,Compliant,70,Duplicate Submission
+S0021,Department of Housing,V008,Professional Services,2026-05-19,448319,337893.31,2026-06-08,2027-08-04,No,Pending,Intake,Compliant,41,Missing Documentation
+S0022,Department of Parks,V008,Professional Services,2026-04-08,11130,11089.12,2026-05-09,2028-02-13,Yes,Under Review,Compliance Review,Compliant,42,Missing Documentation
+S0023,Department of Parks,V008,Technology,2026-01-15,313657,292935.03,2026-02-02,2027-06-18,Yes,Approved,Intake,Compliant,6,Date Error
+S0024,Department of Education,V010,Professional Services,2026-01-21,456348,363461.21,2026-03-15,2026-11-19,Yes,Pending,Final Approval,Compliant,40,
+S0025,Department of Transportation,V004,Human Services,2026-04-18,354652,317739.14,2026-06-05,2027-10-21,No,Under Review,Financial Review,Compliant,28,Duplicate Submission
+S0026,Department of Parks,V002,Goods,2026-06-15,167284,162284,2026-07-04,2027-01-09,Yes,Rejected,Final Approval,Compliant,24,Vendor Information
+S0027,Department of Health,V008,Technology,2026-02-03,499296,418036.68,2026-02-22,2027-04-28,No,Under Review,Final Approval,Compliant,33,Duplicate Submission
+S0028,Department of Transportation,V002,Goods,2026-05-16,14101,12930.13,2026-07-05,2027-11-03,Yes,Approved,Compliance Review,Compliant,9,Vendor Information
+S0029,Department of Education,V002,Construction,2026-06-04,120430,111928.01,2026-07-02,2027-09-25,No,Rejected,Intake,Compliant,13,
+S0030,Department of Housing,V009,Goods,2026-03-27,414288,324265.25,2026-04-27,2027-04-07,Yes,Rejected,Intake,Compliant,22,Duplicate Submission
+S0031,Department of Education,V005,Human Services,2026-08-20,88147,78133.29,2026-09-27,2027-08-24,Yes,Rejected,Compliance Review,Compliant,9,Missing Documentation
+S0032,Department of Health,V003,Professional Services,2026-06-24,140825,129098.97,2026-07-31,2028-03-18,No,Pending,Intake,Compliant,74,Missing Documentation
+S0033,Department of Education,V007,Goods,2026-07-08,494697,412105.54,2026-08-18,2027-10-26,No,Waiting,Financial Review,Compliant,25,Missing Documentation
+S0034,Department of Health,V007,Human Services,2026-07-29,491533,425213.31,2026-09-01,2027-10-19,No,Pending,Intake,Compliant,16,Vendor Information
+S0035,Department of Education,V002,Human Services,2026-03-31,346321,303845.22,2026-05-28,2028-05-26,Yes,Under Review,Final Approval,Compliant,75,Vendor Information
+S0036,Department of Parks,V002,Construction,2026-01-10,66834,60093.31,2026-02-16,2027-07-02,Yes,Rejected,Compliance Review,Compliant,24,
+S0037,Department of Education,V006,Technology,2026-07-01,238619,179065.14,2026-08-19,2027-09-04,No,Under Review,Intake,Compliant,42,Duplicate Submission
+S0038,Department of Transportation,V009,Professional Services,2026-08-19,167455,146821.3,2026-10-15,2028-06-04,Yes,Under Review,Legal Review,Compliant,40,Missing Documentation
+S0039,Department of Education,V005,Human Services,2026-08-29,208781,191938.53,2026-09-24,2028-01-25,Yes,Rejected,Legal Review,Compliant,22,Date Error
+S0040,Department of Housing,V003,Goods,2026-06-05,353254,293399.46,2026-07-18,2028-04-10,No,Pending,Final Approval,Compliant,47,Duplicate Submission
+S0041,Department of Health,V003,Goods,2026-06-12,334671,279047.7,2026-07-12,2027-11-21,Yes,Pending,Financial Review,Compliant,66,Financial Review
+S0042,Department of Housing,V008,Construction,2026-06-06,455507,429143.32,2026-07-20,2028-03-15,Yes,Pending,Financial Review,Compliant,60,Duplicate Submission
+S0043,Department of Parks,V008,Goods,2026-06-26,12907,12560.64,2026-07-17,2028-03-23,Yes,Pending,Intake,Compliant,120,Financial Review
+S0044,Department of Parks,V007,Technology,2026-02-04,430173,372598.99,2026-03-24,2027-08-10,No,Rejected,Financial Review,Compliant,24,Duplicate Submission
+S0045,Department of Health,V005,Construction,2026-08-09,258866,223276.44,2026-09-08,2027-12-15,Yes,Rejected,Compliance Review,Compliant,25,Missing Documentation
+S0046,Department of Health,V007,Professional Services,2026-03-11,186080,154432.89,2026-04-29,2027-01-16,Yes,Pending,Intake,Compliant,24,Financial Review
+S0047,Department of Housing,V007,Technology,2026-04-15,183477,162496.92,2026-05-26,2027-01-24,Yes,Pending,Final Approval,Compliant,68,Financial Review
+S0048,Department of Parks,V010,Professional Services,2026-05-03,13091,12903.61,2026-06-06,2028-01-06,No,Rejected,Financial Review,Compliant,22,Vendor Information
+S0049,Department of Housing,V003,Technology,2026-04-22,264616,200382.11,2026-05-28,2028-01-12,Yes,Pending,Legal Review,Compliant,68,Date Error
+S0050,Department of Housing,V003,Goods,2026-05-25,357602,270624.44,2026-07-20,2028-03-29,No,Pending,Legal Review,Compliant,70,Vendor Information
+S0051,Department of Education,V008,Goods,2026-02-24,248393,206591.3,2026-04-04,2027-07-12,Yes,Rejected,Compliance Review,Compliant,13,Missing Documentation
+S0052,Department of Health,V001,Technology,2026-06-16,45975,43460.55,2026-08-11,2027-03-20,Yes,Approved,Financial Review,Compliant,12,Missing Documentation
+S0053,Department of Transportation,V003,Technology,2026-05-02,360989,281065.08,2026-05-30,2028-03-16,Yes,Under Review,Financial Review,Compliant,64,Vendor Information
+S0054,Department of Education,V010,Professional Services,2026-01-28,313397,237059.64,2026-03-03,2027-09-18,Yes,Rejected,Compliance Review,Compliant,11,Duplicate Submission
+S0055,Department of Housing,V006,Goods,2026-06-03,432328,337329.87,2026-07-24,2027-03-03,No,Under Review,Intake,Compliant,49,Financial Review
+S0056,Department of Health,V009,Human Services,2026-07-30,267006,207299.38,2026-09-06,2028-06-17,No,Pending,Legal Review,Compliant,42,Financial Review
+S0057,Department of Housing,V004,Construction,2026-07-31,393268,353201.33,2026-09-04,2027-11-09,No,Approved,Compliance Review,Compliant,13,
+S0058,Department of Transportation,V006,Human Services,2026-05-07,456144,379171.32,2026-06-22,2027-07-24,No,Under Review,Final Approval,Compliant,66,
+S0059,Department of Housing,V008,Construction,2026-05-13,110168,84983.95,2026-06-23,2028-05-03,Yes,Pending,Intake,Compliant,59,Vendor Information
+S0060,Department of Parks,V006,Construction,2026-02-26,222022,204914.49,2026-04-01,2027-10-10,No,Rejected,Compliance Review,Compliant,22,Duplicate Submission
+S0016,Department of Health,V001,Goods,2026-01-31,139973,112842.64,2026-03-08,2026-09-25,Yes,Pending,Financial Review,Compliant,52,

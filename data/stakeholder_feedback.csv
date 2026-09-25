@@ -1,0 +1,13 @@
+feedback_id,agency,stakeholder_role,system_area,issue_category,severity,feedback_text,requested_improvement,status
+F001,Department of Education,Procurement Analyst,Submission Intake,Missing Documentation,High,Users frequently submit packages without required supporting documents,Add pre-submission completeness checks,Open
+F002,Department of Education,Agency Coordinator,Submission Intake,Missing Documentation,Medium,It is difficult to know which documents are missing,Provide a standardized submission checklist,Open
+F003,Department of Health,Procurement Analyst,Vendor Management,Vendor Information,High,Vendor information is sometimes incomplete at intake,Add required vendor-field validation,In Progress
+F004,Department of Health,Agency Coordinator,System Navigation,User Experience,Medium,Users have difficulty locating the status of submissions,Create a clearer status summary,Open
+F005,Department of Transportation,Procurement Analyst,Review Workflow,Review Aging,High,Older submissions are difficult to identify,Add review-aging dashboard,In Progress
+F006,Department of Transportation,Agency Coordinator,Review Workflow,Review Aging,Medium,Managers need visibility into delayed reviews,Add aging alerts and reporting,Open
+F007,Department of Housing,Procurement Analyst,Financial Review,Financial Data,High,Financial discrepancies are sometimes discovered late,Add automated amount validation,Open
+F008,Department of Housing,Agency Coordinator,Documentation,Missing Documentation,Medium,Repeated questions are received about required documentation,Create standardized job aids,Open
+F009,Department of Parks,Procurement Analyst,Vendor Management,Vendor Information,Medium,Vendor records occasionally contain incomplete information,Add required-field validation,Open
+F010,Department of Parks,Agency Coordinator,Reporting,Reporting Visibility,Low,Stakeholders want a simpler summary of procurement activity,Create monthly KPI dashboard,Open
+F011,Department of Education,Procurement Analyst,Reporting,Reporting Visibility,Medium,Teams want to see pending submissions by stage,Add review-stage reporting,Open
+F012,Department of Health,Agency Coordinator,Submission Intake,Duplicate Submission,Medium,Duplicate submissions can create unnecessary review work,Add duplicate detection,In Progress

@@ -1,0 +1,19 @@
+submission_id,check,result,severity,message
+S0005,Completeness,FAIL,High,Missing required field: vendor_id
+S0005,Vendor Validation,FAIL,High,Vendor ID is missing
+S0016,Duplicate Detection,FAIL,High,Duplicate submission ID detected
+S0016,Duplicate Detection,FAIL,High,Duplicate submission ID detected
+S0019,Date Validation,FAIL,High,Contract end date must occur after start date
+S0033,Status Validation,FAIL,Medium,Invalid status: Waiting
+S0012,MWBE Validation,REVIEW,Medium,MWBE status is missing
+S0007,Review Aging,REVIEW,Medium,Submission has been in review for 68 days
+S0020,Review Aging,REVIEW,Medium,Submission has been in review for 70 days
+S0032,Review Aging,REVIEW,Medium,Submission has been in review for 74 days
+S0035,Review Aging,REVIEW,Medium,Submission has been in review for 75 days
+S0041,Review Aging,REVIEW,Medium,Submission has been in review for 66 days
+S0043,Review Aging,ESCALATE,High,Submission has been in review for 120 days
+S0047,Review Aging,REVIEW,Medium,Submission has been in review for 68 days
+S0049,Review Aging,REVIEW,Medium,Submission has been in review for 68 days
+S0050,Review Aging,REVIEW,Medium,Submission has been in review for 70 days
+S0053,Review Aging,REVIEW,Medium,Submission has been in review for 64 days
+S0058,Review Aging,REVIEW,Medium,Submission has been in review for 66 days

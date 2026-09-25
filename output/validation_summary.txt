@@ -1,0 +1,22 @@
+CivicProcure Validation Summary
+===================================
+
+Total submissions reviewed: 61
+PASS: 44
+REVIEW: 12
+ESCALATE: 4
+
+Total validation issues: 18
+
+Issues by check:
+- Review Aging: 11
+- Duplicate Detection: 2
+- Completeness: 1
+- Vendor Validation: 1
+- Date Validation: 1
+- Status Validation: 1
+- MWBE Validation: 1
+
+Issues by severity:
+- Medium: 12
+- High: 6

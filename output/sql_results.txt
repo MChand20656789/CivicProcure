@@ -1,0 +1,144 @@
+agency                 submission_count
+---------------------  ----------------
+Department of Housing  15              
+Department of Health   14              
+Department of Educati  13              
+Department of Parks    10              
+Department of Transpo  9               
+agency                 avg_review_days
+---------------------  ---------------
+Department of Housing  42.53          
+Department of Transpo  36.78          
+Department of Educati  35.15          
+Department of Parks    35.1           
+Department of Health   34.79          
+submission_id  agency               vendor_id   procurement_type  status      review_stage  review_days
+-------------  -------------------  ----------  ----------------  ----------  ------------  -----------
+S0043          Department of Parks  V008        Goods             Pending     Intake        120        
+S0035          Department of Educa  V002        Human Services    Under Revi  Final Approv  75         
+S0032          Department of Healt  V003        Professional Ser  Pending     Intake        74         
+S0020          Department of Educa  V008        Technology        Pending     Intake        70         
+S0050          Department of Housi  V003        Goods             Pending     Legal Review  70         
+S0007          Department of Educa  V004        Goods             Under Revi  Legal Review  68         
+S0047          Department of Housi  V007        Technology        Pending     Final Approv  68         
+S0049          Department of Housi  V003        Technology        Pending     Legal Review  68         
+S0041          Department of Healt  V003        Goods             Pending     Financial Re  66         
+S0058          Department of Trans  V006        Human Services    Under Revi  Final Approv  66         
+S0053          Department of Trans  V003        Technology        Under Revi  Financial Re  64         
+S0002          Department of Parks  V007        Professional Ser  Pending     Final Approv  60         
+S0015          Department of Trans  V007        Human Services    Pending     Final Approv  60         
+S0042          Department of Housi  V008        Construction      Pending     Financial Re  60         
+S0059          Department of Housi  V008        Construction      Pending     Intake        59         
+S0008          Department of Housi  V007        Construction      Pending     Compliance R  56         
+S0016          Department of Healt  V001        Goods             Pending     Financial Re  52         
+S0016          Department of Healt  V001        Goods             Pending     Financial Re  52         
+S0055          Department of Housi  V006        Goods             Under Revi  Intake        49         
+S0040          Department of Housi  V003        Goods             Pending     Final Approv  47         
+S0013          Department of Educa  V002        Human Services    Under Revi  Financial Re  46         
+S0022          Department of Parks  V008        Professional Ser  Under Revi  Compliance R  42         
+S0037          Department of Educa  V006        Technology        Under Revi  Intake        42         
+S0056          Department of Healt  V009        Human Services    Pending     Legal Review  42         
+S0021          Department of Housi  V008        Professional Ser  Pending     Intake        41         
+S0024          Department of Educa  V010        Professional Ser  Pending     Final Approv  40         
+S0038          Department of Trans  V009        Professional Ser  Under Revi  Legal Review  40         
+S0006          Department of Healt  V005        Goods             Under Revi  Final Approv  37         
+S0027          Department of Healt  V008        Technology        Under Revi  Final Approv  33         
+S0003          Department of Healt  V004        Human Services    Under Revi  Intake        32         
+S0017          Department of Housi  V004        Technology        Pending     Final Approv  32         
+S0025          Department of Trans  V004        Human Services    Under Revi  Financial Re  28         
+S0046          Department of Healt  V007        Professional Ser  Pending     Intake        24         
+S0001          Department of Educa  V009        Goods             Pending     Intake        23         
+S0011          Department of Trans  V007        Professional Ser  Under Revi  Intake        22         
+S0034          Department of Healt  V007        Human Services    Pending     Intake        16         
+submission_id  agency               status      review_stage  review_days
+-------------  -------------------  ----------  ------------  -----------
+S0043          Department of Parks  Pending     Intake        120        
+S0035          Department of Educa  Under Revi  Final Approv  75         
+S0032          Department of Healt  Pending     Intake        74         
+S0020          Department of Educa  Pending     Intake        70         
+S0050          Department of Housi  Pending     Legal Review  70         
+S0007          Department of Educa  Under Revi  Legal Review  68         
+S0047          Department of Housi  Pending     Final Approv  68         
+S0049          Department of Housi  Pending     Legal Review  68         
+S0041          Department of Healt  Pending     Financial Re  66         
+S0058          Department of Trans  Under Revi  Final Approv  66         
+S0053          Department of Trans  Under Revi  Financial Re  64         
+agency                total_requested  total_approved  amount_difference
+--------------------  ---------------  --------------  -----------------
+Department of Health  4063112.0        3440992.19      622119.81        
+Department of Housin  3963006.0        3311102.53      651903.47        
+Department of Educat  2857364.0        2373860.39      483503.61        
+Department of Transp  2778214.0        2364821.63      413392.37        
+Department of Parks   1832056.0        1649557.87      182498.13        
+procurement_type  submission_count  requested_amount
+----------------  ----------------  ----------------
+Goods             17                4164280.0       
+Technology        12                3234673.0       
+Professional Ser  12                3082504.0       
+Human Services    10                3059698.0       
+Construction      10                1952597.0       
+check         severity    issue_count
+------------  ----------  -----------
+Review Aging  Medium      10         
+Duplicate De  High        2          
+Completeness  High        1          
+Date Validat  High        1          
+MWBE Validat  Medium      1          
+Review Aging  High        1          
+Status Valid  Medium      1          
+Vendor Valid  High        1          
+vendor_id   vendor_name              submission_count
+----------  -----------------------  ----------------
+V007        East River Construction  9               
+V008        Community First Partner  9               
+V003        GreenLine Facilities     8               
+V002        Metro Office Services    7               
+V009        Atlas Administrative Se  6               
+V004        Northstar Consulting Gr  5               
+V006        Urban Data Systems       5               
+V005        BrightPath Community Se  4               
+V010        BlueBridge Solutions     4               
+V001        Harbor Technology Solut  3               
+review_stage  submission_count  avg_review_days  max_review_days
+------------  ----------------  ---------------  ---------------
+Legal Review  7                 45.43            70             
+Final Approv  13                43.54            75             
+Financial Re  13                37.92            66             
+Intake        18                36.83            120            
+Compliance R  10                22.4             56             
+issue_category         severity    feedback_count
+---------------------  ----------  --------------
+Missing Documentation  Medium      2             
+Duplicate Submission   Medium      1             
+Financial Data         High        1             
+Missing Documentation  High        1             
+Reporting Visibility   Low         1             
+Reporting Visibility   Medium      1             
+Review Aging           High        1             
+Review Aging           Medium      1             
+User Experience        Medium      1             
+Vendor Information     High        1             
+Vendor Information     Medium      1             
+agency                   stakeholder_role     system_area        issue_category         severity    requested_improvement                   status    
+-----------------------  -------------------  -----------------  ---------------------  ----------  --------------------------------------  ----------
+Department of Education  Procurement Analyst  Submission Intake  Missing Documentation  High        Add pre-submission completeness checks  Open      
+Department of Health     Procurement Analyst  Vendor Management  Vendor Information     High        Add required vendor-field validation    In Progres
+Department of Transport  Procurement Analyst  Review Workflow    Review Aging           High        Add review-aging dashboard              In Progres
+Department of Housing    Procurement Analyst  Financial Review   Financial Data         High        Add automated amount validation         Open      
+Department of Education  Agency Coordinator   Submission Intake  Missing Documentation  Medium      Provide a standardized submission chec  Open      
+Department of Health     Agency Coordinator   System Navigation  User Experience        Medium      Create a clearer status summary         Open      
+Department of Transport  Agency Coordinator   Review Workflow    Review Aging           Medium      Add aging alerts and reporting          Open      
+Department of Housing    Agency Coordinator   Documentation      Missing Documentation  Medium      Create standardized job aids            Open      
+Department of Parks      Procurement Analyst  Vendor Management  Vendor Information     Medium      Add required-field validation           Open      
+Department of Education  Procurement Analyst  Reporting          Reporting Visibility   Medium      Add review-stage reporting              Open      
+Department of Health     Agency Coordinator   Submission Intake  Duplicate Submission   Medium      Add duplicate detection                 In Progres
+Department of Parks      Agency Coordinator   Reporting          Reporting Visibility   Low         Create monthly KPI dashboard            Open      
+issue_category         feedback_count  proposed_improvements                                                                                          
+---------------------  --------------  ---------------------------------------------------------------------------------------------------------------
+Missing Documentation  3               Add pre-submission completeness checks,Provide a standardized submission checklist,Create standardized job aids
+Vendor Information     2               Add required vendor-field validation,Add required-field validation                                             
+Review Aging           2               Add review-aging dashboard,Add aging alerts and reporting                                                      
+Reporting Visibility   2               Create monthly KPI dashboard,Add review-stage reporting                                                        
+User Experience        1               Create a clearer status summary                                                                                
+Financial Data         1               Add automated amount validation                                                                                
+Duplicate Submission   1               Add duplicate detection                                                                                        

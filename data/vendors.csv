@@ -1,0 +1,11 @@
+vendor_id,vendor_name,vendor_type,mwbe_status,active_status
+V001,Harbor Technology Solutions,Technology,Yes,Active
+V002,Metro Office Services,Professional Services,No,Active
+V003,GreenLine Facilities,Facilities,Yes,Active
+V004,Northstar Consulting Group,Consulting,No,Active
+V005,BrightPath Community Services,Human Services,Yes,Active
+V006,Urban Data Systems,Technology,No,Active
+V007,East River Construction,Construction,No,Active
+V008,Community First Partners,Human Services,Yes,Active
+V009,Atlas Administrative Services,Administrative,No,Active
+V010,BlueBridge Solutions,Professional Services,Yes,Active

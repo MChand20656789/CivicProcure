@@ -1,0 +1,9 @@
+check,severity,issue_count
+Review Aging,Medium,10
+Duplicate Detection,High,2
+Completeness,High,1
+Date Validation,High,1
+MWBE Validation,Medium,1
+Review Aging,High,1
+Status Validation,Medium,1
+Vendor Validation,High,1
