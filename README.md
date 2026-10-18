@@ -519,29 +519,3 @@ Potential future enhancements include:
 * Logging and pipeline monitoring
 * Configuration-driven validation rules
 * Automated report generation
-
----
-
-## Portfolio Relevance
-
-CivicProcure demonstrates the intersection of:
-
-**Data Analysis + Government Operations + Process Improvement + Stakeholder Experience**
-
-The project is particularly useful for demonstrating how an analyst can move from raw operational data to:
-
-```text
-Data
- ↓
-Validation
- ↓
-Analysis
- ↓
-Reporting
- ↓
-Stakeholder Insight
- ↓
-Process Improvement
-```
-
-The emphasis is on **accuracy, reproducibility, operational reporting, and actionable analysis** rather than building an unnecessarily complex machine-learning model.
